@@ -1,5 +1,3 @@
-# opnsense-multiverse-mockup
-Visual concept for an OPNsense theme with five palettes. A mockup, not an installable theme.
 # OPNsense Multiverse — theme concept
 
 A visual concept for an OPNsense theme with five palettes. This is a **mockup**,
