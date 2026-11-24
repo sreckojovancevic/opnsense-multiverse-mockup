@@ -3,7 +3,7 @@
 A visual concept for an OPNsense theme with five palettes. This is a **mockup**,
 not a finished theme and not an installable package. It exists to show what an
 OPNsense theme *could* look like, and to invite discussion.
-
+Mockup screenshots in directory
 ## What this is
 
 A single self-contained HTML file that renders a fake OPNsense dashboard with
